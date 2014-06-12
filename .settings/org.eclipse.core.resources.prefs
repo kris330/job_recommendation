@@ -1,0 +1,11 @@
+#Tue Jun 10 17:29:06 CST 2014
+eclipse.preferences.version=1
+encoding//csft/etc/quanzhi.py=utf-8
+encoding//csft/tst_resys.py=utf-8
+encoding//json_scripts/extract_cv.py=utf8
+encoding//json_scripts/extract_jd.py=utf8
+encoding//quanzhi_extract/jd_extract.py=utf-8
+encoding//quanzhi_extract/mongo_access.py=utf-8
+encoding/tst_jobrmd.py=utf-8
+encoding/tst_key_extract.py=utf-8
+encoding/tst_key_extract_cv.py=utf-8
